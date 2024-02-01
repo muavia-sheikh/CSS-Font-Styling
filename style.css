@@ -10,6 +10,7 @@ h1 {
   font-family: "avigea", "abril factor";
   text-align: center;
   font-size: 35px;
+  background-color: bisque;
 }
 p {
   font-family: "oswald";
@@ -28,6 +29,7 @@ h2 {
   font-family: "avigea";
   text-align: center;
   font-size: 50px;
+  background-color: bisque;
 }
 .jaun2 {
   font-family: "noto nastaliq urdu";
